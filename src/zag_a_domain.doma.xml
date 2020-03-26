@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DOMA" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD01V>
+    <DOMNAME>ZAG_A_DOMAIN</DOMNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <VALEXI>X</VALEXI>
+    <DDTEXT>Domain Append</DDTEXT>
+    <APPENDNAME>ZAG_DOMAIN</APPENDNAME>
+   </DD01V>
+   <DD07V_TAB>
+    <DD07V>
+     <DOMNAME>ZAG_A_DOMAIN</DOMNAME>
+     <VALPOS>0001</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>APPEND</DOMVALUE_L>
+     <DDTEXT>Append Value</DDTEXT>
+    </DD07V>
+   </DD07V_TAB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
